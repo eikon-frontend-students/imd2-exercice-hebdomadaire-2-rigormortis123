@@ -44,12 +44,10 @@ video {
 }
 
 .white-round {
+  display: flex;
   background-color: white;
   padding: 20px;
   border-radius: 32px;
-}
-
-.white-round {
   width: 64px;
   height: 64px;
 }
